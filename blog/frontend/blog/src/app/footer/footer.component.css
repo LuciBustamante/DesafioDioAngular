@@ -1,0 +1,18 @@
+.social-network{
+  list-style: none;
+  padding: 0;
+}
+
+.social-network > li {
+  display: inline;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.icoFacebook {
+  color: white;
+}
+
+.icoFacebook:hover {
+  color: rgb(9, 33, 248);
+}
